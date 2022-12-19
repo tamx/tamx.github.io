@@ -1,1 +1,3 @@
-# slides
+# slide
+
+[slide](/slide)
